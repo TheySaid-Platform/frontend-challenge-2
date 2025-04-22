@@ -16,6 +16,13 @@ The 3 priorities that we provide you are:
 2. Provide test coverage of the components. 
 3. Ensure UI Matches the image
 
+### Tech to use
+- nx
+- Tailwind CSS
+- React
+- RecoilJS
+- Typescript
+
 ### Note
 
 1. The example design below.
