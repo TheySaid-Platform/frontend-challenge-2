@@ -44,9 +44,7 @@ The 3 priorities that we provide you are:
 10. Use functional components
 11. Improve code structure. Your implementation should be more like how you do it for any production grade application development
 12. Define Typescript types where necessary
-13. Please submit your code either via Github or Gitlab
+13. Please submit your code as Github fork instead of PR
 14. Use React context API and hooks to showcase your understanding of these React features
 15. Pay attention to performance of your page rendering
 16. Feel free to make the UI better as bonus point
-
-***Applicants are provided this challenge with no expectation on deadline. Please take the time you need to complete the challenge to the best of your ability.***
