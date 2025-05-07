@@ -20,7 +20,7 @@ The 3 priorities that we provide you are:
 - nx
 - Tailwind CSS
 - React
-- RecoilJS
+- Jotai
 - Typescript
 
 ### Note
